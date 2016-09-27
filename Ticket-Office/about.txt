@@ -1,0 +1,2 @@
+A complex project involving the use of multithreading, this simulates a ticket office that is selling tickets
+to a show. There are multiple box offices that are in sync with each other selling tickets to the same show.
