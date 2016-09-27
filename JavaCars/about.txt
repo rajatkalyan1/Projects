@@ -1,0 +1,2 @@
+JavaCars is a graphics based program that races four cars, each going at a randomly determined speed. Whichever car wins has a recorded 
+time to finish as well.
