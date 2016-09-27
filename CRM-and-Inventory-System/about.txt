@@ -1,0 +1,3 @@
+This program takes a text file as an input and reads in the customer name, item bought, and how many, as well
+as the number of said item in inventory. It then outputs a summary of the purchases made, similar to a
+receipt of transactions. There is a C version and a C++ version.
