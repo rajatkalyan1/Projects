@@ -1,0 +1,2 @@
+This program creates a website that displays movie posters, each being a link to its trailer. The fresh_tomatoes.py file is what actually
+creates the website. the media and entertainment_center files are what create the objects to store movie posters.
