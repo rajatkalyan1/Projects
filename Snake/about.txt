@@ -1,0 +1,1 @@
+A simple implementation of the classic game Snake. Uses arrow keys as input.
