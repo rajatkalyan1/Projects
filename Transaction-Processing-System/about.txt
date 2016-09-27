@@ -1,0 +1,3 @@
+This program simulates an ATM. You input the transaction you want to make (Transfer funds, withdraw, deposit, compute
+interest, get balance) and choose one of four accounts (Checking, Savings, Auto Loan, Student Loan) to put the transaction
+on.
