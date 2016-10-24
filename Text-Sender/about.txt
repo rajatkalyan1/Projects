@@ -1,0 +1,2 @@
+This program sends a text to a different number from your Twilio number. 
+Twilio is a program you will have to create an account for in order for this project to work properly.
